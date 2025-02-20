@@ -1,0 +1,4 @@
+streamlit
+requests
+requests_oauthlib
+pandas
